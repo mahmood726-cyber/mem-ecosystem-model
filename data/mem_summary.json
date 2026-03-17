@@ -1,0 +1,34 @@
+{
+  "n_reviews_processed": 501,
+  "n_reviews_total": 501,
+  "n_errors": 0,
+  "velocity": {
+    "n_analyses": 3651,
+    "n_reviews": 415,
+    "mean_velocity": 1.504,
+    "median_velocity": 0.818,
+    "mean_span_years": 17.9,
+    "median_k": 11
+  },
+  "decay": {
+    "n_analyses": 3062,
+    "n_reviews": 381,
+    "median_decay_ratio": 0.657,
+    "mean_decay_ratio": 1.166,
+    "pct_direction_reversal": 25.1,
+    "median_trajectory_cv": 0.497
+  },
+  "fpi": {
+    "n_analyses": 3062,
+    "n_mafi_matched": 2874,
+    "mean_fpi": 63.3,
+    "median_fpi": 64.4,
+    "sd_fpi": 14.1,
+    "class_counts": {
+      "Moderate": 1500,
+      "Stable": 998,
+      "Volatile": 524,
+      "High Risk": 40
+    }
+  }
+}

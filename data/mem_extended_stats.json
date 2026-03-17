@@ -1,0 +1,162 @@
+{
+  "correlations": {
+    "n_complete_cases": 2650,
+    "spearman_velocity_decay": {
+      "rho": -0.047,
+      "p": 0.015
+    },
+    "spearman_velocity_cv": {
+      "rho": 0.055,
+      "p": 0.005
+    },
+    "spearman_mafi_decay": {
+      "rho": 0.077,
+      "p": 0.0
+    },
+    "pearson_velocity_decay": {
+      "r": -0.002,
+      "p": 0.91
+    },
+    "pearson_velocity_cv": {
+      "r": 0.014,
+      "p": 0.47
+    },
+    "pearson_mafi_decay": {
+      "r": 0.001,
+      "p": 0.98
+    },
+    "pearson_velocity_fpi": {
+      "r": 0.236,
+      "p": 0.0
+    },
+    "pearson_mafi_fpi": {
+      "r": -0.51,
+      "p": 0.0
+    },
+    "pearson_decay_fpi": {
+      "r": -0.267,
+      "p": 0.0
+    }
+  },
+  "significance_comparison": {
+    "n_significant": 887,
+    "n_nonsignificant": 2089,
+    "n_missing_significance": 86,
+    "mean_fpi_significant": 70.8,
+    "mean_fpi_nonsignificant": 60.6,
+    "median_fpi_significant": 71.2,
+    "median_fpi_nonsignificant": 61.9,
+    "welch_t": 20.4,
+    "welch_p": 8.246487254672826e-84,
+    "cohens_d": 0.77,
+    "difference": 10.2
+  },
+  "reversals": {
+    "n_total_analyses": 3062,
+    "n_any_reversal": 769,
+    "pct_any_reversal": 25.1,
+    "n_meaningful_reversal": 105,
+    "pct_meaningful_reversal": 3.4,
+    "threshold_log_or": 0.2
+  },
+  "crosstab": [
+    {
+      "mafi_class": "Robust",
+      "Stable": 728,
+      "Moderate": 553,
+      "Volatile": 91,
+      "High Risk": 1,
+      "Total": 1373
+    },
+    {
+      "mafi_class": "Low Fragility",
+      "Stable": 231,
+      "Moderate": 607,
+      "Volatile": 226,
+      "High Risk": 15,
+      "Total": 1079
+    },
+    {
+      "mafi_class": "Moderate Fragility",
+      "Stable": 8,
+      "Moderate": 221,
+      "Volatile": 125,
+      "High Risk": 15,
+      "Total": 369
+    },
+    {
+      "mafi_class": "High Fragility",
+      "Stable": 0,
+      "Moderate": 28,
+      "Volatile": 24,
+      "High Risk": 1,
+      "Total": 53
+    },
+    {
+      "mafi_class": "Unmatched",
+      "Stable": 31,
+      "Moderate": 91,
+      "Volatile": 58,
+      "High Risk": 8,
+      "Total": 188
+    }
+  ],
+  "sensitivity": [
+    {
+      "Weight scheme": "Original (0.30, 0.25, 0.25, 0.20)",
+      "Mean FPI": 63.3,
+      "SD FPI": 14.1,
+      "Stable (%)": 32.6,
+      "Moderate (%)": 49.0,
+      "Volatile (%)": 17.1,
+      "High Risk (%)": 1.3,
+      "Stable (n)": 998,
+      "Moderate (n)": 1500,
+      "Volatile (n)": 524,
+      "High Risk (n)": 40
+    },
+    {
+      "Weight scheme": "Equal (0.25, 0.25, 0.25, 0.25)",
+      "Mean FPI": 63.9,
+      "SD FPI": 14.1,
+      "Stable (%)": 36.1,
+      "Moderate (%)": 46.3,
+      "Volatile (%)": 16.0,
+      "High Risk (%)": 1.5,
+      "Stable (n)": 1106,
+      "Moderate (n)": 1418,
+      "Volatile (n)": 491,
+      "High Risk (n)": 47
+    },
+    {
+      "Weight scheme": "Stability-dominant (0.20, 0.20, 0.40, 0.20)",
+      "Mean FPI": 63.5,
+      "SD FPI": 16.2,
+      "Stable (%)": 41.9,
+      "Moderate (%)": 35.5,
+      "Volatile (%)": 19.6,
+      "High Risk (%)": 2.9,
+      "Stable (n)": 1284,
+      "Moderate (n)": 1088,
+      "Volatile (n)": 600,
+      "High Risk (n)": 90
+    },
+    {
+      "Weight scheme": "Bias-dominant (0.20, 0.40, 0.20, 0.20)",
+      "Mean FPI": 67.4,
+      "SD FPI": 12.9,
+      "Stable (%)": 45.2,
+      "Moderate (%)": 44.6,
+      "Volatile (%)": 9.7,
+      "High Risk (%)": 0.5,
+      "Stable (n)": 1383,
+      "Moderate (n)": 1367,
+      "Volatile (n)": 297,
+      "High Risk (n)": 15
+    }
+  ],
+  "same_year": {
+    "n_same_year": 55,
+    "pct_same_year": 1.5
+  }
+}

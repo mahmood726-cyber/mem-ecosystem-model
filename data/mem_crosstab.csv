@@ -1,0 +1,6 @@
+mafi_class,Stable,Moderate,Volatile,High Risk,Total
+Robust,728,553,91,1,1373
+Low Fragility,231,607,226,15,1079
+Moderate Fragility,8,221,125,15,369
+High Fragility,0,28,24,1,53
+Unmatched,31,91,58,8,188

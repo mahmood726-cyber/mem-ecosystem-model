@@ -1,0 +1,6 @@
+# Requires Python >= 3.10 (tested on 3.13.1)
+numpy>=2.0
+pandas>=2.0
+pyreadr>=0.5
+scipy>=1.11
+matplotlib>=3.7
