@@ -1,10 +1,10 @@
 # The meta-analysis ecosystem model: quantifying evidence velocity, effect decay, and a future-proof index across 501 Cochrane systematic reviews
 
-**Authors:** Mahmood Ul Hassan [ORCID_PLACEHOLDER]
+**Authors:** Mahmood Ahmad 0009-0003-7781-4478
 
 **Affiliation:** Independent Researcher, United Kingdom
 
-**Corresponding Author:** Mahmood Ul Hassan ([CORRESPONDING_EMAIL_PLACEHOLDER])
+**Corresponding Author:** Mahmood Ahmad (mahmood.ahmad2@nhs.net)
 
 ---
 
@@ -252,7 +252,7 @@ The author thanks the Cochrane Collaboration for maintaining the systematic revi
 
 ## Author contributions
 
-**Conceptualization:** Mahmood Ul Hassan. **Data curation:** Mahmood Ul Hassan. **Formal analysis:** Mahmood Ul Hassan. **Investigation:** Mahmood Ul Hassan. **Methodology:** Mahmood Ul Hassan. **Software:** Mahmood Ul Hassan. **Validation:** Mahmood Ul Hassan. **Visualization:** Mahmood Ul Hassan. **Writing - original draft:** Mahmood Ul Hassan. **Writing - review & editing:** Mahmood Ul Hassan.
+**Conceptualization:** Mahmood Ahmad. **Data curation:** Mahmood Ahmad. **Formal analysis:** Mahmood Ahmad. **Investigation:** Mahmood Ahmad. **Methodology:** Mahmood Ahmad. **Software:** Mahmood Ahmad. **Validation:** Mahmood Ahmad. **Visualization:** Mahmood Ahmad. **Writing - original draft:** Mahmood Ahmad. **Writing - review & editing:** Mahmood Ahmad.
 
 ## Funding
 
